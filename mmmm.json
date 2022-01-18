@@ -1,0 +1,41 @@
+{
+  "squadName": "Escuadrón de superhéroes",
+  "homeTown" : "Ciudad metropolitana",
+  "formado": 2016,
+  "secretBase": "Súper torre",
+ "activo": cierto,
+  "miembros" : [
+    {
+      "nombre": "Hombre Araña",
+      "edad": 20,
+      "secretIdentity": "Peter Parker",
+      "poderes" : [
+        "Sentido aracnido",
+        "Teleraña",
+        "Trepar muros"
+      ]
+    },
+    {
+      "nombre": "Iron Man",
+      "edad": 43,
+      "identidadsecreta": "Tony Stark",
+      "poderes" : [
+        "Armadura Poderosa",
+        "Genio millonario",
+        "Lider de los Vengadores"
+      ]
+    },
+    {
+      "nombre": "Capitan America",
+      "edad": 32,
+      "secretIdentity": "Steve Rogers",
+      "poderes" : [
+        "Resistencia",
+        "Reflejos",
+        "Fuerza Descomunal",
+        "Escudo de vibranium",
+        "Suero supersoldado"
+      ]
+    }
+  ]
+}
